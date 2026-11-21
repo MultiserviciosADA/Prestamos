@@ -1,0 +1,16 @@
+{
+  "name": "Mi Cartera de Préstamos",
+  "short_name": "Cartera",
+  "description": "Control de préstamos, cobros y asesores de crédito",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef0f6",
+  "theme_color": "#1d4f91",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
